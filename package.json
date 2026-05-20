@@ -1,0 +1,21 @@
+{
+  "name": "soul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_payload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.6.2"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "ethers": "5",
+    "ws": "^8.20.1"
+  }
+}
